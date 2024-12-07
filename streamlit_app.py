@@ -30,5 +30,5 @@ elif page == "Section 3":
 elif page == "Section 4":
     st.image("https://picsum.photos/800/403", caption="describe the photo by text here", use_column_width=True)
     st.write("""
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.444444444444444
+        arny is stinky
     """)
