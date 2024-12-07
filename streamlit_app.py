@@ -1,6 +1,5 @@
 import streamlit as st
 
-# Set the title of the Streamlit app
 st.title("YouTube Statistics")
 
 st.write("""
